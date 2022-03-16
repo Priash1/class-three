@@ -1,0 +1,23 @@
+
+.color {
+    color: blue;
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}
+#keycode{
+    width: 200px;
+    height: 200px;
+}
+
+#limon {
+    color: aqua;
+}
+
+p {
+    color: rgb(219, 26, 161);
+}
+h1{
+    color: red;
+    font-size: 20px;
+}
